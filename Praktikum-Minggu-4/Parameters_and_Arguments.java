@@ -1,7 +1,7 @@
 public class Parameters_and_Arguments {
 	
 	static void myMethod(String fname) {
-		System.out.println(fname + " Uchiha ");
+		System.out.println(fname + " Uchih ");
 	}
 	
 	public static void main(String[] args) {
